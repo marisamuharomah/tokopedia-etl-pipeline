@@ -93,7 +93,7 @@ Tabel fakta terhubung dengan tabel dimensi melalui foreign key.
 
 Berikut merupakan rancangan dimensional model yang digunakan dalam proyek ETL ini.
 
-![Tokopedia Star Schema Diagram](docs/star schema diagram.png)
+![Tokopedia Star Schema Diagram](docs/star_schema_diagram.png)
 
 ## 8. Hasil Data Cleaning
 
