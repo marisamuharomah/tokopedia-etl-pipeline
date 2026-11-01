@@ -91,7 +91,7 @@ Tabel fakta terhubung dengan tabel dimensi melalui foreign key.
 
 ## 7. Star Schema Design
 
-Berikut merupakan rancangan dimensional model yang digunakan dalam proyek ETL ini.
+Berikut merupakan rancangan diagram yang digunakan dalam proyek ETL ini.
 
 ![Tokopedia Star Schema Diagram](docs/star_schema_diagram.png)
 
