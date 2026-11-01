@@ -89,7 +89,13 @@ Star Schema terdiri dari tiga tabel utama:
 
 Tabel fakta terhubung dengan tabel dimensi melalui foreign key.
 
-## 7. Hasil Data Cleaning
+## 7. Star Schema Design
+
+Berikut merupakan rancangan dimensional model yang digunakan dalam proyek ETL ini.
+
+![Tokopedia Star Schema Diagram](docs/star_schema.png)
+
+## 8. Hasil Data Cleaning
 
 | Indikator | Hasil |
 |---|---:|
@@ -100,7 +106,7 @@ Tabel fakta terhubung dengan tabel dimensi melalui foreign key.
 | Duplikasi data | 0 |
 | Rating tidak valid | 0 |
 
-## 8. Hasil Pembangunan Data Warehouse
+## 9. Hasil Pembangunan Data Warehouse
 
 | Tabel | Jumlah Baris |
 |---|---:|
@@ -111,7 +117,7 @@ Tabel fakta terhubung dengan tabel dimensi melalui foreign key.
 
 Seluruh data pada tabel fakta berhasil terhubung dengan tabel dimensi produk dan toko.
 
-## 9. Analisis Bisnis
+## 10. Analisis Bisnis
 
 Analisis bisnis dilakukan menggunakan SQL berdasarkan struktur Star Schema.
 
